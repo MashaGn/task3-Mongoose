@@ -1,0 +1,10 @@
+{
+  "name": "20200421_170446",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.9.10",
+    "mongoose-beautiful-unique-validation": "^7.1.1"
+  }
+}
